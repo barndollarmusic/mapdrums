@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DrumMap>
+   <string name="Name" value="{{ map.name }}"/>
+   <list name="Quantize" type="list">
+      <item>
+         <int name="Grid" value="4"/>
+         <int name="Type" value="0"/>
+         <float name="Swing" value="0"/>
+         <int name="Legato" value="50"/>
+      </item>
+   </list>
+   <list name="Map" type="list">
+   {% for key in map.sorted_keys %}
+      <item>
+         <int name="INote" value="{{ key }}"/>
+         <int name="ONote" value="{{ key }}"/>
+         <int name="Channel" value="-1"/>
+         <float name="Length" value="200"/>
+         <int name="Mute" value="0"/>
+         <int name="DisplayNote" value="{{ key }}"/>
+         <int name="HeadSymbol" value="0"/>
+         <int name="Voice" value="0"/>
+         <int name="PortIndex" value="0"/>
+         <string name="Name" value="{{ map.sound(key) }}" wide="true"/>
+         <int name="QuantizeIndex" value="0"/>
+      </item>
+   {% endfor %}
+   </list>
+   <list name="Order" type="int">
+   {% for key in map.sorted_keys %}
+      {% if map.is_mapped(key) %}
+      <item value="{{ key }}"/>
+      {% endif %}
+   {% endfor %}
+
+   {% for key in map.sorted_keys %}
+      {% if not map.is_mapped(key) %}
+      <item value="{{ key }}"/>
+      {% endif %}
+   {% endfor %}
+   </list>
+   <list name="OutputDevices" type="list">
+      <item>
+         <string name="DeviceName" value="Default Device"/>
+         <string name="PortName" value="Default Port"/>
+      </item>
+   </list>
+   <int name="Flags" value="0"/>
+</DrumMap>
