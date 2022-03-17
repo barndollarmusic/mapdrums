@@ -6,6 +6,8 @@ Generate Cubase Drum Map (.drm) files from input CSV
 See [`SampleInput.csv`](SampleInput.csv) for format of the input data. You can
 edit it and save a `.csv` file using Google Sheets or Excel.
 
+![Screenshot of SampleInput.csv](SampleInput.png)
+
 Feel free to add additional columns, but this script requires `Map` (drum map
 name), `Key` (MIDI key number), and `Sound` (label for the sound that key
 makes). As in the sample, you can create multiple drum maps from a single input
