@@ -1,4 +1,4 @@
-# cubase-drum-maps
+# make-drum-maps
 Generate Cubase Drum Map (.drm) files from input CSV
 
 ## Usage
