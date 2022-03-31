@@ -1,0 +1,407 @@
+﻿Map,Key,Sound
+"HwPrc SnDr, FieldDr",36,Hit LH
+"HwPrc SnDr, FieldDr",38,Hit RH
+"HwPrc SnDr, FieldDr",40,Edge LH
+"HwPrc SnDr, FieldDr",41,Edge RH
+"HwPrc SnDr, FieldDr",43,Flam
+"HwPrc SnDr, FieldDr",45,Rim Shot
+"HwPrc SnDr, FieldDr",47,Bounce
+"HwPrc SnDr, FieldDr",48,Roll
+"HwPrc SnDr, FieldDr",50,Roll DXF
+"HwPrc SnDr, FieldDr",52,Roll Cresc
+"HwPrc SnDr, FieldDr",53,Roll Cresc
+"HwPrc SnDr, FieldDr",55,Roll Cresc
+HwPrc Toms,36,"18"" Hit LH"
+HwPrc Toms,38,"18"" Hit RH"
+HwPrc Toms,40,"18"" Flam"
+HwPrc Toms,41,"16""-A Hit LH"
+HwPrc Toms,43,"16""-A Hit RH"
+HwPrc Toms,45,"16""-A Flam"
+HwPrc Toms,48,"16""-B Hit LH"
+HwPrc Toms,50,"16""-B Hit RH"
+HwPrc Toms,52,"16""-B Flam"
+HwPrc Toms,53,"14"" Hit LH"
+HwPrc Toms,55,"14"" Hit RH"
+HwPrc Toms,57,"14"" Flam"
+HwPrc Toms,60,"13"" Hit LH"
+HwPrc Toms,62,"13"" Hit RH"
+HwPrc Toms,64,"13"" Flam"
+HwPrc Toms,65,"12"" Hit LH"
+HwPrc Toms,67,"12"" Hit RH"
+HwPrc Toms,69,"12"" Flam"
+HwPrc Toms,72,"10"" Hit LH"
+HwPrc Toms,74,"10"" Hit RH"
+HwPrc Toms,76,"10"" Flam"
+HwPrc Toms,77,"8"" Hit LH"
+HwPrc Toms,79,"8"" Hit RH"
+HwPrc Toms,81,"8"" Flam"
+HwPrc TaosDr,36,Hit Mallet
+HwPrc TaosDr,38,Hit Mallet
+HwPrc SusCym Cresc,60,Very Fast
+HwPrc SusCym Cresc,62,Fast
+HwPrc SusCym Cresc,64,Med
+HwPrc SusCym Cresc,65,Slow
+HwPrc SusCym Cresc,67,Very Fast Choke
+HwPrc SusCym Cresc,69,Fast Choke
+HwPrc SusCym Cresc,71,Med Choke
+HwPrc SusCym Cresc,72,Slow Choke
+HwPrc Piatti,36,22-ZK Crash
+HwPrc Piatti,38,22-ZK Choke Med
+HwPrc Piatti,40,22-ZK Choke Fast
+HwPrc Piatti,41,20-Z Crash
+HwPrc Piatti,43,20-Z Choke Med
+HwPrc Piatti,45,20-Z Choke Fast
+HwPrc Piatti,47,20-C Crash
+HwPrc Piatti,48,20-C Choke Med
+HwPrc Piatti,50,20-C Choke Fast
+HwPrc Piatti,52,19-Z Crash
+HwPrc Piatti,53,19-Z Choke Med
+HwPrc Piatti,55,19-Z Choke Fast
+HwPrc Piatti,57,19-ZA Crash
+HwPrc Piatti,59,19-ZA Choke Med
+HwPrc Piatti,60,19-ZA Choke Fast
+HwPrc Piatti,62,19-S Crash
+HwPrc Piatti,64,19-S Choke Med
+HwPrc Piatti,65,19-S Choke Fast
+HwPrc Piatti,67,17-I Crash
+HwPrc Piatti,69,17-I Choke Med
+HwPrc Piatti,71,17-I Choke Fast
+HwPrc Piatti,72,16-S Crash
+HwPrc Piatti,74,16-S Choke Med
+HwPrc Piatti,76,16-S Choke Fast
+HwPrc Piatti,77,15-OI Crash
+HwPrc Piatti,79,15-OI Choke Med
+HwPrc Piatti,81,15-OI Choke Fast
+HwPrc Piatti,83,14-OZK Crash
+HwPrc Piatti,84,14-OZK Choke Med
+HwPrc Piatti,86,14-OZK Choke Fast
+HwPrc Piatti,88,12-OZK Crash
+HwPrc Piatti,89,12-OZK Choke Med
+HwPrc Piatti,91,12-OZK Choke Fast
+HwPrc Tam-Tam,36,Hit
+HwPrc Tam-Tam,38,Choke
+HwPrc Tam-Tam,40,Roll Cresc Fast
+HwPrc Tam-Tam,41,Roll Cresc Med
+HwPrc Tam-Tam,43,Roll Cresc Slow
+HwPrc Tam-Tam,45,Bowed SFX
+HwPrc Tam-Tam,47,Bowed SFX
+HwPrc Tam-Tam,48,Bowed SFX
+HwPrc Tam-Tam,50,Bowed SFX
+HwPrc Tam-Tam,52,Bowed SFX
+HwPrc Tam-Tam,53,Bowed SFX
+HwPrc Tam-Tam,55,Bowed SFX
+HwPrc Tam-Tam,57,Bowed SFX
+HwPrc Tam-Tam,59,Bowed SFX
+HwPrc Tam-Tam,60,Bowed SFX
+HwPrc Tam-Tam,62,Bowed SFX
+HwPrc Tam-Tam,64,Bowed SFX
+HwPrc Tam-Tam,65,Scraped SFX
+HwPrc Tam-Tam,67,Scraped SFX
+HwPrc Tam-Tam,69,Scraped SFX
+HwPrc Tam-Tam,71,Scraped SFX
+HwPrc Triangle,36,[1] Hit
+HwPrc Triangle,38,[1] Secco
+HwPrc Triangle,40,[1] Roll
+HwPrc Triangle,48,[2] Hit
+HwPrc Triangle,50,[2] Secco
+HwPrc Triangle,52,[2] Roll
+HwPrc Triangle,60,[3] Hit
+HwPrc Triangle,62,[3] Secco
+HwPrc Triangle,64,[3] Roll
+HwPrc Triangle,72,[4] Hit
+HwPrc Triangle,74,[4] Secco
+HwPrc Triangle,76,[4] Roll
+HwPrc Triangle,84,[5] Hit
+HwPrc Triangle,86,[5] Secco
+HwPrc Triangle,88,[5] Roll
+HwPrc Triangle,96,[6] Hit
+HwPrc Triangle,98,[6] Secco
+HwPrc Triangle,100,[6] Roll
+HwPrc FingCym,36,[1] Hit
+HwPrc FingCym,38,[1] Secco
+HwPrc FingCym,40,[2] Hit
+HwPrc FingCym,41,[2] Secco
+HwPrc BrakeDr-Anv-MetRail,21,Brake Drum (?)
+HwPrc BrakeDr-Anv-MetRail,23,Brake Drum (?)
+HwPrc BrakeDr-Anv-MetRail,24,Brake Drum (?)
+HwPrc BrakeDr-Anv-MetRail,26,Brake Drum (?)
+HwPrc BrakeDr-Anv-MetRail,28,Brake Drum (?)
+HwPrc BrakeDr-Anv-MetRail,29,Brake Drum (?)
+HwPrc BrakeDr-Anv-MetRail,31,Brake Drum (?)
+HwPrc BrakeDr-Anv-MetRail,33,Brake Drum (?)
+HwPrc BrakeDr-Anv-MetRail,35,Brake Drum (?)
+HwPrc BrakeDr-Anv-MetRail,36,Brake Drum (?)
+HwPrc BrakeDr-Anv-MetRail,38,Brake Drum (?)
+HwPrc BrakeDr-Anv-MetRail,40,Brake Drum (?)
+HwPrc BrakeDr-Anv-MetRail,41,Brake Drum (?)
+HwPrc BrakeDr-Anv-MetRail,43,Brake Drum (?)
+HwPrc BrakeDr-Anv-MetRail,45,Brake Drum (?)
+HwPrc BrakeDr-Anv-MetRail,47,Brake Drum (?)
+HwPrc BrakeDr-Anv-MetRail,48,Anvil (?)
+HwPrc BrakeDr-Anv-MetRail,50,Anvil (?)
+HwPrc BrakeDr-Anv-MetRail,52,Anvil (?)
+HwPrc BrakeDr-Anv-MetRail,53,Anvil (?)
+HwPrc BrakeDr-Anv-MetRail,55,Anvil (?)
+HwPrc BrakeDr-Anv-MetRail,57,Anvil (?)
+HwPrc BrakeDr-Anv-MetRail,59,Anvil (?)
+HwPrc BrakeDr-Anv-MetRail,60,Anvil (?)
+HwPrc BrakeDr-Anv-MetRail,62,Anvil (?)
+HwPrc BrakeDr-Anv-MetRail,64,Anvil (?)
+HwPrc BrakeDr-Anv-MetRail,65,Anvil (?)
+HwPrc BrakeDr-Anv-MetRail,67,Anvil (?)
+HwPrc BrakeDr-Anv-MetRail,69,Anvil (?)
+HwPrc BrakeDr-Anv-MetRail,71,Anvil (?)
+HwPrc BrakeDr-Anv-MetRail,72,Anvil (?)
+HwPrc BrakeDr-Anv-MetRail,74,Anvil (?)
+HwPrc BrakeDr-Anv-MetRail,76,Anvil (?)
+HwPrc BrakeDr-Anv-MetRail,77,Anvil (?)
+HwPrc BrakeDr-Anv-MetRail,79,Anvil (?)
+HwPrc BrakeDr-Anv-MetRail,81,Anvil (?)
+HwPrc BrakeDr-Anv-MetRail,83,Anvil (?)
+HwPrc BrakeDr-Anv-MetRail,84,Anvil (?)
+HwPrc BrakeDr-Anv-MetRail,86,Anvil (?)
+HwPrc BrakeDr-Anv-MetRail,88,Anvil (?)
+HwPrc BrakeDr-Anv-MetRail,89,Metal Rails (?)
+HwPrc BrakeDr-Anv-MetRail,91,Metal Rails (?)
+HwPrc BrakeDr-Anv-MetRail,93,Metal Rails (?)
+HwPrc BrakeDr-Anv-MetRail,95,Metal Rails (?)
+HwPrc BrakeDr-Anv-MetRail,96,Metal Rails (?)
+HwPrc BrakeDr-Anv-MetRail,98,Metal Rails (?)
+HwPrc BrakeDr-Anv-MetRail,100,Metal Rails (?)
+HwPrc BrakeDr-Anv-MetRail,101,Metal Rails (?)
+HwPrc BrakeDr-Anv-MetRail,103,Metal Rails (?)
+HwPrc BrakeDr-Anv-MetRail,105,Metal Rails (?)
+HwPrc BrakeDr-Anv-MetRail,107,Metal Rails (?)
+HwPrc BrakeDr-Anv-MetRail,108,Metal Rails (?)
+HwPrc MarkTree,36,Dn Fast
+HwPrc MarkTree,38,Dn Slow
+HwPrc MarkTree,40,Dn Slow
+HwPrc MarkTree,41,Up Fast
+HwPrc MarkTree,43,Up Slow
+HwPrc MarkTree,45,Up Slow
+HwPrc MarkTree,47,Soft Sus
+HwPrc MarkTree,48,Loud Sus
+HwPrc MarkTree,50,Sus High
+HwPrc MarkTree,52,Sus High
+HwPrc MarkTree,53,Sus High
+HwPrc MarkTree,55,Sus High
+HwPrc MarkTree,57,Sus Low
+HwPrc MarkTree,59,Sus Low
+HwPrc MarkTree,60,Sus Low
+HwPrc MarkTree,62,Sus Low
+HwPrc MarkTree,64,Sus Mid
+HwPrc MarkTree,65,Sus Mid
+HwPrc MarkTree,67,Sus Mid
+HwPrc SleighBell,36,Hit Low
+HwPrc SleighBell,38,Hit High
+HwPrc SleighBell,40,Hit Both
+HwPrc Tamb-Lef,36,Hit
+HwPrc Tamb-Lef,38,Hit
+HwPrc Tamb-Lef,40,Roll Slow
+HwPrc Tamb-Lef,41,Roll Tight
+HwPrc Tamb-Lef,43,Roll Slow DXF
+HwPrc Tamb-Lef,45,Roll Tight DXF
+HwPrc Tamb-Lef,47,Roll Cresc Hit Fast
+HwPrc Tamb-Lef,48,Roll Cresc Hit Med
+HwPrc Tamb-Swamp,36,Hit
+HwPrc Tamb-Swamp,38,Hit
+HwPrc Tamb-Swamp,40,Roll Tight
+HwPrc Tamb-Swamp,41,Roll Tight
+HwPrc Tamb-Swamp,43,Roll Slow
+HwPrc Tamb-Swamp,45,Roll Tight DXF
+HwPrc Tamb-Swamp,47,Roll Slow DXF
+HwPrc Tamb-Swamp,48,Roll Cresc Hit Slow
+HwPrc Tamb-Swamp,50,Roll Cresc Hit Med
+HwPrc Tamb-Headless,36,Hit
+HwPrc Tamb-Headless,38,Hit
+HwPrc Tamb-Headless,40,Roll Slow
+HwPrc Tamb-Headless,41,Roll Slow DXF
+HwPrc TempBl,36,[1] Hit
+HwPrc TempBl,38,[1] Flam
+HwPrc TempBl,40,[1] Roll
+HwPrc TempBl,48,[2] Hit
+HwPrc TempBl,50,[2] Flam
+HwPrc TempBl,52,[2] Roll
+HwPrc TempBl,60,[3] Hit
+HwPrc TempBl,62,[3] Flam
+HwPrc TempBl,64,[3] Roll
+HwPrc WoodBl-Picc,36,[1] Hit
+HwPrc WoodBl-Picc,38,[1] Hit LH
+HwPrc WoodBl-Picc,40,[1] Hit RH
+HwPrc WoodBl-Picc,41,[1] Flam
+HwPrc WoodBl-Picc,43,[1] Roll
+HwPrc WoodBl-Picc,48,[2] Hit
+HwPrc WoodBl-Picc,50,[2] Hit LH
+HwPrc WoodBl-Picc,52,[2] Hit RH
+HwPrc WoodBl-Picc,53,[2] Flam
+HwPrc WoodBl-Picc,55,[2] Roll
+HwPrc WoodBl-Picc,60,[3] Hit
+HwPrc WoodBl-Picc,62,[3] Hit LH
+HwPrc WoodBl-Picc,64,[3] Hit RH
+HwPrc WoodBl-Picc,65,[3] Flam
+HwPrc WoodBl-Picc,67,[3] Roll
+HwPrc WoodBl,36,[1] Hit
+HwPrc WoodBl,38,[1] Hit LH
+HwPrc WoodBl,40,[1] Hit RH
+HwPrc WoodBl,41,[1] Flam
+HwPrc WoodBl,43,[1] Roll
+HwPrc WoodBl,48,[2] Hit
+HwPrc WoodBl,50,[2] Hit LH
+HwPrc WoodBl,52,[2] Hit RH
+HwPrc WoodBl,53,[2] Flam
+HwPrc WoodBl,55,[2] Roll
+HwPrc WoodBl,60,[3] Hit
+HwPrc WoodBl,62,[3] Hit LH
+HwPrc WoodBl,64,[3] Hit RH
+HwPrc WoodBl,65,[3] Flam
+HwPrc WoodBl,67,[3] Roll
+HwPrc WoodBl,72,[4] Hit
+HwPrc WoodBl,74,[4] Hit LH
+HwPrc WoodBl,76,[4] Hit RH
+HwPrc WoodBl,77,[4] Flam
+HwPrc WoodBl,79,[4] Roll
+HwPrc WoodBl,84,[5] Hit
+HwPrc WoodBl,86,[5] Hit LH
+HwPrc WoodBl,88,[5] Hit RH
+HwPrc WoodBl,89,[5] Flam
+HwPrc WoodBl,91,[5] Roll
+HwPrc WoodBl,96,[6] Hit
+HwPrc WoodBl,98,[6] Hit LH
+HwPrc WoodBl,100,[6] Hit RH
+HwPrc WoodBl,101,[6] Flam
+HwPrc WoodBl,103,[6] Roll
+HwPrc Shakers,72,[1] Down
+HwPrc Shakers,74,[1] Up
+HwPrc Shakers,76,[1] Roll
+HwPrc Shakers,84,[2] Down
+HwPrc Shakers,86,[2] Up
+HwPrc Shakers,88,[2] Roll
+HwPrc Shakers,96,[3] Down
+HwPrc Shakers,98,[3] Up
+HwPrc Shakers,100,[3] Roll
+HwPrc Castanets,36,[1] LH
+HwPrc Castanets,38,[1] RH
+HwPrc Castanets,40,[1] Flam
+HwPrc Castanets,41,[1] Roll
+HwPrc Castanets,48,[2] LH
+HwPrc Castanets,50,[2] RH
+HwPrc Castanets,52,[2] Flam
+HwPrc Castanets,53,[2] Roll
+HwPrc Claves,36,[1] Hit
+HwPrc Claves,38,[2] Hit
+HwPrc Claves,40,[3] Hit
+HwPrc Ratchet,36,Short Rolls
+HwPrc Ratchet,38,Short Rolls
+HwPrc Ratchet,40,Short Rolls
+HwPrc Ratchet,41,Short Rolls
+HwPrc Ratchet,43,Short Rolls
+HwPrc Ratchet,48,Long Rolls
+HwPrc Ratchet,50,Long Rolls
+HwPrc Ratchet,52,Long Rolls
+HwPrc Ratchet,53,Long Rolls
+HwPrc Slapsticks,36,[1] Hit
+HwPrc Slapsticks,38,[2] Hit
+HwPrc PuiliSticks,36,[1] Hit
+HwPrc PuiliSticks,38,[1] Hit
+HwPrc PuiliSticks,40,[2] Hit
+HwPrc PuiliSticks,41,[2] Hit
+HwPrc BDr,36,Felt Secco
+HwPrc BDr,38,Felt Hit
+HwPrc BDr,40,Felt Roll
+HwPrc BDr,41,Felt Roll DXF
+HwPrc BDr,43,Felt Roll Cresc
+HwPrc BDr,45,Felt Roll Cresc
+HwPrc BDr,47,Felt Roll Cresc
+HwPrc BDr,48,Felt Roll Cresc
+HwPrc BDr,50,Felt Roll Cresc
+HwPrc BDr,52,Felt Roll Cresc
+HwPrc BDr,60,Hard Secco
+HwPrc BDr,62,Hard Hit
+HwPrc BDr,64,Hard Roll
+HwPrc BDr,65,Hard Roll DXF
+HwPrc BDr,67,Hard Roll Cresc
+HwPrc BDr,69,Hard Roll Cresc
+HwPrc BDr,71,Hard Roll Cresc
+HwPrc BDr,72,Hard Roll Cresc
+HwPrc BDr,74,Hard Roll Cresc
+HwPrc BDr,76,Hard Roll Cresc
+HwPrc MarchBDr,36,Hit
+HwPrc MarchBDr,38,Hit
+HwPrc MarchBDr,40,Hit
+HwPrc MarchBDr,41,Hit
+HwPrc MahlerHmr,36,Hit
+HwPrc MahlerHmr,38,Hit
+HwPrc MahlerHmr,40,Hit
+HwPrc MahlerHmr,41,Hit
+HwPrc MahlerHmr,43,Hit
+HwPrc Harp Rec Gliss,36,Dn G Mixolyd Slow
+HwPrc Harp Rec Gliss,38,Dn Gb 6/9 Pent Slow
+HwPrc Harp Rec Gliss,40,Dn F 6/9 Pent Slow
+HwPrc Harp Rec Gliss,41,Dn Gb 6/9 Pent Med
+HwPrc Harp Rec Gliss,43,Dn G Mixolyd Fast
+HwPrc Harp Rec Gliss,45,Dn Gb 6/9 Pent Fast
+HwPrc Harp Rec Gliss,47,Dn F 6/9 Pent Fast
+HwPrc Harp Rec Gliss,48,Up Gb 6/9 Pent Slow
+HwPrc Harp Rec Gliss,50,Up F 6/9 Pent Slow
+HwPrc Harp Rec Gliss,52,Up G Mixolyd Slow
+HwPrc Harp Rec Gliss,53,Up ~Fdim7 Synth Slow
+HwPrc Harp Rec Gliss,55,Up Eb 6/9 Pent Slow
+HwPrc Harp Rec Gliss,57,Up Dbmaj7#11 Pent Slow
+HwPrc Harp Rec Gliss,59,Up E Lydian Slow
+HwPrc Harp Rec Gliss,60,Up ~F#dim7 Synth Slow
+HwPrc Harp Rec Gliss,62,Up D Harm Minor Slow
+HwPrc Harp Rec Gliss,64,Up A Melod Minor Slow
+HwPrc Harp Rec Gliss,65,Up Gb 6/9 Pent Fast
+HwPrc Harp Rec Gliss,67,Up F 6/9 Pent Fast
+HwPrc Harp Rec Gliss,69,Up C Major Fast
+HwPrc Harp Rec Gliss,71,Up ~Fdim7 Synth Fast
+HwPrc Harp Rec Gliss,72,Up Eb 6/9 Pent Fast
+HwPrc Harp Rec Gliss,74,Up Dbmaj7#11 Pent Fast
+HwPrc Harp Rec Gliss,76,Up E Lydian Fast
+HwPrc Harp Rec Gliss,77,Up ~F#dim7 Synth Fast
+HwPrc Harp Rec Gliss,79,Up D Harm Minor Med
+HwPrc Harp Rec Gliss,81,Up D Harm Minor Fast
+HwPrc Harp Rec Gliss,83,Up A Melod Minor Fast
+HwPrc Harp Rec Gliss Angelic,24,Slow Gb 6/9 Pent
+HwPrc Harp Rec Gliss Angelic,26,Slow Gb 6/9 Pent
+HwPrc Harp Rec Gliss Angelic,28,Slow F 6/9 Pent
+HwPrc Harp Rec Gliss Angelic,29,Slow F 6/9 Pent
+HwPrc Harp Rec Gliss Angelic,31,Slow C Major
+HwPrc Harp Rec Gliss Angelic,33,Slow C Major
+HwPrc Harp Rec Gliss Angelic,35,Slow ~Fdim7 Synth
+HwPrc Harp Rec Gliss Angelic,36,Slow ~Fdim7 Synth
+HwPrc Harp Rec Gliss Angelic,38,Slow Eb 6/9 Pent
+HwPrc Harp Rec Gliss Angelic,40,Slow Eb 6/9 Pent
+HwPrc Harp Rec Gliss Angelic,41,Slow Dbmaj7#11 Pent
+HwPrc Harp Rec Gliss Angelic,43,Slow Dbmaj7#11 Pent
+HwPrc Harp Rec Gliss Angelic,45,Slow F# Mixolyd
+HwPrc Harp Rec Gliss Angelic,47,Slow F# Mixolyd
+HwPrc Harp Rec Gliss Angelic,48,Slow ~F#dim7 Synth
+HwPrc Harp Rec Gliss Angelic,50,Slow ~F#dim7 Synth
+HwPrc Harp Rec Gliss Angelic,52,Slow D Harm Minor
+HwPrc Harp Rec Gliss Angelic,53,Slow D Harm Minor
+HwPrc Harp Rec Gliss Angelic,55,Slow A Melod Minor
+HwPrc Harp Rec Gliss Angelic,57,Slow A Melod Minor
+HwPrc Harp Rec Gliss Angelic,60,Fast Gb 6/9 Pent
+HwPrc Harp Rec Gliss Angelic,62,Fast Gb 6/9 Pent
+HwPrc Harp Rec Gliss Angelic,64,Fast F 6/9 Pent
+HwPrc Harp Rec Gliss Angelic,65,Fast F 6/9 Pent
+HwPrc Harp Rec Gliss Angelic,67,Fast C Major
+HwPrc Harp Rec Gliss Angelic,69,Fast C Major
+HwPrc Harp Rec Gliss Angelic,71,Fast ~Fdim7 Synth
+HwPrc Harp Rec Gliss Angelic,72,Fast ~Fdim7 Synth
+HwPrc Harp Rec Gliss Angelic,74,Fast Eb 6/9 Pent
+HwPrc Harp Rec Gliss Angelic,76,Fast Eb 6/9 Pent
+HwPrc Harp Rec Gliss Angelic,77,Fast Dbmaj7#11 Pent
+HwPrc Harp Rec Gliss Angelic,79,Fast Dbmaj7#11 Pent
+HwPrc Harp Rec Gliss Angelic,81,Fast F# Mixolyd
+HwPrc Harp Rec Gliss Angelic,83,Fast F# Mixolyd
+HwPrc Harp Rec Gliss Angelic,84,Fast ~F#dim7 Synth
+HwPrc Harp Rec Gliss Angelic,86,Fast ~F#dim7 Synth
+HwPrc Harp Rec Gliss Angelic,88,Fast D Harm Minor
+HwPrc Harp Rec Gliss Angelic,89,Fast A Melod Minor
+HwPrc Harp Rec Gliss Angelic,91,Fast A Melod Minor
+HwPrc Celesta Gliss SFX,48,Up D Dorian
+HwPrc Celesta Gliss SFX,50,Up Black Keys
+HwPrc Celesta Gliss SFX,52,Ghost Key Sounds 1
+HwPrc Celesta Gliss SFX,53,Ghost Key Sounds 2

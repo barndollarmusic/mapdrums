@@ -1,15 +1,22 @@
-#!/usr/bin/env python3
+# SPDX-FileCopyrightText: 2022 Barndollar Music, Ltd.
+#
+# SPDX-License-Identifier: Apache-2.0
 
 import argparse
 import codecs
 import csv
+import pathlib
 import jinja2
+
+__name__ = "mapdrums"
+__version__ = "0.9.0"  # NOTE: Also update setup.cfg when updating version.
 
 # Command-line arguments:
 parser = argparse.ArgumentParser(
-    prog="gen-drms",
+    prog=__name__,
     description="Generate Cubase Drum Map (.drm) files from input CSV")
 parser.add_argument("input_csv", help="Input CSV file (Map, Key, Sound)")
+parser.add_argument("--version", action="version", version=__version__)
 
 
 # https://stackoverflow.com/questions/1546717/escaping-strings-for-use-in-xml
@@ -55,7 +62,8 @@ def cli():
             maps[map_name].keys[int(row["Key"])] = row["Sound"]
     
     # Output drum maps.
-    loader = jinja2.FileSystemLoader("templates")
+    module_dir = pathlib.Path(__file__).parent.absolute()
+    loader = jinja2.FileSystemLoader(module_dir / "data")
     env = jinja2.Environment(loader=loader)
     env.trim_blocks = True
     env.lstrip_blocks = True
