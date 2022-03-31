@@ -11,7 +11,7 @@ import re
 import sys
 
 __name__ = "mapdrums"
-__version__ = "0.9.0"  # NOTE: Also update setup.cfg when updating version.
+__version__ = "0.9.1"  # NOTE: Also update setup.cfg when updating version.
 
 # Command-line arguments:
 parser = argparse.ArgumentParser(
@@ -131,7 +131,3 @@ def cli():
             drm_file.write(out)
         
         print(f"[{__name__}] Wrote {drm_filename}")
-
-
-if __name__ == "__main__":
-    cli()
