@@ -197,10 +197,10 @@ HwPrc SleighBell,38,Hit High
 HwPrc SleighBell,40,Hit Both
 HwPrc Tamb-Lef,36,Hit
 HwPrc Tamb-Lef,38,Hit
-HwPrc Tamb-Lef,40,Roll Slow
-HwPrc Tamb-Lef,41,Roll Tight
-HwPrc Tamb-Lef,43,Roll Slow DXF
-HwPrc Tamb-Lef,45,Roll Tight DXF
+HwPrc Tamb-Lef,40,Roll Tight
+HwPrc Tamb-Lef,41,Roll Slow
+HwPrc Tamb-Lef,43,Roll Tight DXF
+HwPrc Tamb-Lef,45,Roll Slow DXF
 HwPrc Tamb-Lef,47,Roll Cresc Hit Fast
 HwPrc Tamb-Lef,48,Roll Cresc Hit Med
 HwPrc Tamb-Swamp,36,Hit
