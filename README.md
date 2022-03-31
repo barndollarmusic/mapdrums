@@ -57,3 +57,11 @@ mapdrums YourInput.csv
 
 This will output one `.drm` file in the current directory for every unique `Map`
 value in your input CSV data.
+
+Run `mapdrums -h` to print help for additional options.
+
+
+## Find a problem?
+
+Look for an existing bug report or file a new issue
+[here](https://github.com/barndollarmusic/mapdrums/issues).
