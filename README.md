@@ -9,34 +9,33 @@ Generate Cubase Drum Map (`.drm`) files from input CSV.
 
 ## How to Install
 
-**PREREQUISITE**: requires Python 3.6 or later installed on your system. You can
-download the latest verion [here](https://www.python.org/downloads/). See
-[Requirements for Installing
-Packages](https://packaging.python.org/en/latest/tutorials/installing-packages/#requirements-for-installing-packages)
-if you need more help.
+### 1. Install Python
 
-Open a terminal program (Terminal, PowerShell, Command Prompt, *etc.*) and
-install **mapdrums** with these commands (you may need to restart your terminal
-after `ensurepath`):
-```bash
-python3 -m pip install --user pipx
-python3 -m pipx ensurepath
+`mapdrums` requires Python 3.
+
+If you don't already have Python installed, download and install it from the [official Python website](https://www.python.org/downloads/).
+
+### 2. Install pipx
+
+Follow the [official pipx installation instructions](https://pipx.pypa.io/latest/how-to/install-pipx.html) for your operating system.
+
+### 3. Install mapdrums
+
+Open a terminal program (Terminal, PowerShell, Command Prompt, etc.) and run:
+
+```console
 pipx install mapdrums
 ```
 
-For Windows users, Python 3 might be installed as the `py` program:
-```cmd
-py -m pip install --user pipx
-py -m pipx ensurepath
-pipx install mapdrums
-```
+Once installed, you can run `mapdrums` from any directory.
 
 ### Upgrading to a New Version
 
-```bash
+To upgrade an existing installation of `mapdrums` to the latest version, run:
+
+```console
 pipx upgrade mapdrums
 ```
-
 
 ## Usage
 
